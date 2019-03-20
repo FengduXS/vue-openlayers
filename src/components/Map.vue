@@ -26,7 +26,7 @@ export default {
         layers: [
           new ol.layer.Tile({
             source: new ol.source.XYZ({
-              url: '../../static/googlemaps/roadmap/{z}/{x}/{y}.png'
+              url: '../../static/map/{z}/{x}/{y}.png'
             })
           })
         ],
