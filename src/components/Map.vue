@@ -96,6 +96,7 @@ export default {
   }
 }
 </script>
+
 <style>
 .map {
   width: 755px;
